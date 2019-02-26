@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Anansi's Web Blog
 
 I'm glad you are here. I plan to talk about ...
